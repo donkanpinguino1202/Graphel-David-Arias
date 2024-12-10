@@ -75,7 +75,7 @@ nav a {
 
 .imagen-cabecera-contenedor {
     height: 80vh;
-    background: url(/asssets/images/cabecera1.jpg) center/cover no-repeat;
+    background: url(../asssets/images/cabecera1.jpg) center/cover no-repeat;
     display: flex;
     align-items: center;
     position: relative;
